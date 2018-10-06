@@ -11,7 +11,7 @@ def build_function(dirname)
   return function
 end
 
-tag = JSON.parse(open('tag.json').read())
+tag = JSON.parse(open('metadata.json').read())
 tag['tagData']['functions']=[]
 
 Dir.children('functions').sort.each { |f| tag['tagData']['functions'].append(build_function(f)) }
