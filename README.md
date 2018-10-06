@@ -20,3 +20,7 @@ MESH Custom Tag for SORACOM Services
 
 - Check Harvest page
 ![Harvest](img/Harvest.png)
+
+# How to build
+- change codes under functions directory
+- execute `ruby build.rb > soracom_tag.json` (you need Ruby 2.5+)
