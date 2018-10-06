@@ -3,6 +3,7 @@ MESH Custom Tag for SORACOM Services
 
 # Install
 - Open MESH Project SDK page : https://meshprj.com/sdk/mypage/
+(if you don't have MESH account, create from here https://meshprj.com/signin/ )
 - Click "Create New Tag" link
 - Click "Import"
 - Copy & Paste JSON text from [soracom_tag.json](soracom_tag.json) file and click "Load JSON"
