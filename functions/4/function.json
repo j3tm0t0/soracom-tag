@@ -1,0 +1,39 @@
+{
+  "id": "function_4",
+  "name": "Beam(bulk)",
+  "connector": {
+    "inputs": [
+      {
+        "label": "input"
+      },
+      {
+        "label": "upload"
+      }
+    ],
+    "outputs": [
+      {
+        "label": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "name": "データラベル",
+      "referenceName": "label",
+      "type": "string",
+      "defaultValue": "1"
+    },
+    {
+      "name": "パス",
+      "referenceName": "path",
+      "type": "string",
+      "defaultValue": "/"
+    }
+  ],
+  "extension": {
+    "initialize": "",
+    "receive": "",
+    "execute": "",
+    "result": ""
+  }
+}

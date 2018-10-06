@@ -1,0 +1,30 @@
+{
+  "id": "function_0",
+  "name": "Harvest",
+  "connector": {
+    "inputs": [
+      {
+        "label": "input"
+      }
+    ],
+    "outputs": [
+      {
+        "label": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "name": "データラベル",
+      "referenceName": "label",
+      "type": "string",
+      "defaultValue": "1"
+    }
+  ],
+  "extension": {
+    "initialize": "",
+    "receive": "",
+    "execute": "",
+    "result": ""
+  }
+}

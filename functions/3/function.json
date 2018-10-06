@@ -1,0 +1,33 @@
+{
+  "id": "function_3",
+  "name": "Harvest(bulk)",
+  "connector": {
+    "inputs": [
+      {
+        "label": "input"
+      },
+      {
+        "label": "upload"
+      }
+    ],
+    "outputs": [
+      {
+        "label": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "name": "データラベル",
+      "referenceName": "label",
+      "type": "string",
+      "defaultValue": "1"
+    }
+  ],
+  "extension": {
+    "initialize": "",
+    "receive": "",
+    "execute": "",
+    "result": ""
+  }
+}

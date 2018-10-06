@@ -1,0 +1,42 @@
+{
+  "id": "function_6",
+  "name": "Inventory",
+  "connector": {
+    "inputs": [
+      {
+        "label": "input"
+      }
+    ],
+    "outputs": [
+      {
+        "label": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "name": "データラベル",
+      "referenceName": "label",
+      "type": "string",
+      "defaultValue": "1"
+    },
+    {
+      "name": "デバイスID",
+      "referenceName": "deviceId",
+      "type": "string",
+      "defaultValue": "d-xxxxxxxx"
+    },
+    {
+      "name": "デバイスシークレット",
+      "referenceName": "secretKey",
+      "type": "string",
+      "defaultValue": "deadbeefcafebabe=="
+    }
+  ],
+  "extension": {
+    "initialize": "",
+    "receive": "",
+    "execute": "",
+    "result": ""
+  }
+}

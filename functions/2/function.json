@@ -1,0 +1,30 @@
+{
+  "id": "function_2",
+  "name": "Funnel",
+  "connector": {
+    "inputs": [
+      {
+        "label": "input"
+      }
+    ],
+    "outputs": [
+      {
+        "label": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "name": "データラベル",
+      "referenceName": "label",
+      "type": "string",
+      "defaultValue": "1"
+    }
+  ],
+  "extension": {
+    "initialize": "",
+    "receive": "",
+    "execute": "",
+    "result": ""
+  }
+}

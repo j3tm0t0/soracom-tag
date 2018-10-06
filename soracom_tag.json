@@ -1,0 +1,253 @@
+{
+  "formatVersion": "1.0",
+  "tagData": {
+    "name": "SORACOM",
+    "icon": "data:image/png;base64,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",
+    "description": "SORACOM Platform",
+    "functions": [
+      {
+        "id": "function_0",
+        "name": "Harvest",
+        "connector": {
+          "inputs": [
+            {
+              "label": "input"
+            }
+          ],
+          "outputs": [
+            {
+              "label": ""
+            }
+          ]
+        },
+        "properties": [
+          {
+            "name": "データラベル",
+            "referenceName": "label",
+            "type": "string",
+            "defaultValue": "1"
+          }
+        ],
+        "extension": {
+          "initialize": "",
+          "receive": "",
+          "execute": "var url = \"http://harvest.soracom.io/\";\n\nvar key;\nvar value;\nvar label = properties.label;\n\nlog(JSON.stringify(messageValues));\n\nif(messageValues.functionId.match(/AccelerationShake/)) {\n\tkey = \"Move.Shake\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationTap/)) {\n\tkey = \"Move.Tap\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationOrientation/)) {\n\tkey = \"Move.Orientation\";\n\tvalue = messageValues.orientation;\n}\nelse if(messageValues.functionId.match(/AccelerationFlip/)) {\n\tkey = \"Move.Flip\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonPressed/)) {\n\tkey = \"Button.Pressed\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonLongPressed/)) {\n\tkey = \"Button.Hold\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonDoublePressed/)) {\n\tkey = \"Button.Double\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIODigitalIn/)) {\n\tkey = \"GPIO.DIN\"+messageValues.pin;\n\tif(messageValues.trigger.match(/1/)){\n\t\tkey = key + \".High\";\n\t}else if(messageValues.trigger.match(/2/)){\n\t\tkey = key + \".Low\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIOAnalogIn/)) {\n\tkey = \"GPIO.AnalogIn\";\n\tvalue = messageValues.value;\n}\nelse if(messageValues.functionId.match(/MotionDetected/)) {\n\tkey = \"Motion.Detected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionUndetected/)) {\n\tkey = \"Motion.Undetected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionStateNotified/)) {\n\tif(messageValues.stateValue==1){\n\t\tkey = \"Motion.Detected\";\n\t}else{\n\t\tkey = \"Motion.Undetected\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/TempTempChanged/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempCheckTemp/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempHumidChanged/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/TempCheckHumid/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/BrightnessBrightnessChanged/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckBrightness/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNear/)) {\n\tkey = \"Brightness.Closeness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNotNear/)) {\n\tkey = \"Brightness.Openness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNear/)) {\n\tkey = \"Brightness.Closenes\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNotNear/)) {\n\tkey = \"Brightness.Openess\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MicrophoneDetectSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse if(messageValues.functionId.match(/MicrophoneCheckSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse {\n\tvalue = 1;\n}\n\nvar data = {[key+label]:value};\nlog(JSON.stringify(data));\n\najax( {\n\turl : url,\n\tdata: JSON.stringify(data),\n\ttype : \"POST\",\n\tcontentType : \"application/json\",\n\ttimeout : 5000\n}) .done ( function ( response ) {\n\tlog(\"success\");\n\tlog(JSON.stringify(response));\n}) .fail ((error) =>{\n\tlog(\"error\");\n\tlog(JSON.stringify(error));\n});\n\nreturn {\n        resultType: \"continue\"\n};\n",
+          "result": ""
+        }
+      },
+      {
+        "id": "function_1",
+        "name": "Beam",
+        "connector": {
+          "inputs": [
+            {
+              "label": "input"
+            }
+          ],
+          "outputs": [
+            {
+              "label": ""
+            }
+          ]
+        },
+        "properties": [
+          {
+            "name": "データラベル",
+            "referenceName": "label",
+            "type": "string",
+            "defaultValue": "1"
+          },
+          {
+            "name": "パス",
+            "referenceName": "path",
+            "type": "string",
+            "defaultValue": "/"
+          }
+        ],
+        "extension": {
+          "initialize": "",
+          "receive": "",
+          "execute": "var url = \"http://beam.soracom.io:8888\";\n\nvar key;\nvar value;\nvar label = properties.label;\nvar path = properties.path;\nurl = url + path;\n\nlog(JSON.stringify(messageValues));\n\nif(messageValues.functionId.match(/AccelerationShake/)) {\n\tkey = \"Move.Shake\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationTap/)) {\n\tkey = \"Move.Tap\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationOrientation/)) {\n\tkey = \"Move.Orientation\";\n\tvalue = messageValues.orientation;\n}\nelse if(messageValues.functionId.match(/AccelerationFlip/)) {\n\tkey = \"Move.Flip\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonPressed/)) {\n\tkey = \"Button.Pressed\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonLongPressed/)) {\n\tkey = \"Button.Hold\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonDoublePressed/)) {\n\tkey = \"Button.Double\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIODigitalIn/)) {\n\tkey = \"GPIO.DIN\"+messageValues.pin;\n\tif(messageValues.trigger.match(/1/)){\n\t\tkey = key + \".High\";\n\t}else if(messageValues.trigger.match(/2/)){\n\t\tkey = key + \".Low\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIOAnalogIn/)) {\n\tkey = \"GPIO.AnalogIn\";\n\tvalue = messageValues.value;\n}\nelse if(messageValues.functionId.match(/MotionDetected/)) {\n\tkey = \"Motion.Detected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionUndetected/)) {\n\tkey = \"Motion.Undetected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionStateNotified/)) {\n\tif(messageValues.stateValue==1){\n\t\tkey = \"Motion.Detected\";\n\t}else{\n\t\tkey = \"Motion.Undetected\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/TempTempChanged/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempCheckTemp/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempHumidChanged/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/TempCheckHumid/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/BrightnessBrightnessChanged/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckBrightness/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNear/)) {\n\tkey = \"Brightness.Closeness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNotNear/)) {\n\tkey = \"Brightness.Openness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNear/)) {\n\tkey = \"Brightness.Closenes\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNotNear/)) {\n\tkey = \"Brightness.Openess\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MicrophoneDetectSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse if(messageValues.functionId.match(/MicrophoneCheckSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse {\n\tvalue = 1;\n}\n\nvar data = {[key+label]:value};\nlog(JSON.stringify(data));\n\najax( {\n\turl : url,\n\tdata: JSON.stringify(data),\n\ttype : \"POST\",\n\tcontentType : \"application/json\",\n\ttimeout : 5000\n}) .done ( function ( response ) {\n\tlog(\"success\");\n\tlog(JSON.stringify(response));\n}) .fail ((error) =>{\n\tlog(\"error\");\n\tlog(JSON.stringify(error));\n});\n\nreturn {\n        resultType: \"continue\"\n};\n",
+          "result": ""
+        }
+      },
+      {
+        "id": "function_2",
+        "name": "Funnel",
+        "connector": {
+          "inputs": [
+            {
+              "label": "input"
+            }
+          ],
+          "outputs": [
+            {
+              "label": ""
+            }
+          ]
+        },
+        "properties": [
+          {
+            "name": "データラベル",
+            "referenceName": "label",
+            "type": "string",
+            "defaultValue": "1"
+          }
+        ],
+        "extension": {
+          "initialize": "",
+          "receive": "",
+          "execute": "var url = \"http://funnel.soracom.io/\";\n\nvar key;\nvar value;\nvar label = properties.label;\n\nlog(JSON.stringify(messageValues));\n\nif(messageValues.functionId.match(/AccelerationShake/)) {\n\tkey = \"Move.Shake\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationTap/)) {\n\tkey = \"Move.Tap\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationOrientation/)) {\n\tkey = \"Move.Orientation\";\n\tvalue = messageValues.orientation;\n}\nelse if(messageValues.functionId.match(/AccelerationFlip/)) {\n\tkey = \"Move.Flip\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonPressed/)) {\n\tkey = \"Button.Pressed\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonLongPressed/)) {\n\tkey = \"Button.Hold\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonDoublePressed/)) {\n\tkey = \"Button.Double\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIODigitalIn/)) {\n\tkey = \"GPIO.DIN\"+messageValues.pin;\n\tif(messageValues.trigger.match(/1/)){\n\t\tkey = key + \".High\";\n\t}else if(messageValues.trigger.match(/2/)){\n\t\tkey = key + \".Low\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIOAnalogIn/)) {\n\tkey = \"GPIO.AnalogIn\";\n\tvalue = messageValues.value;\n}\nelse if(messageValues.functionId.match(/MotionDetected/)) {\n\tkey = \"Motion.Detected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionUndetected/)) {\n\tkey = \"Motion.Undetected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionStateNotified/)) {\n\tif(messageValues.stateValue==1){\n\t\tkey = \"Motion.Detected\";\n\t}else{\n\t\tkey = \"Motion.Undetected\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/TempTempChanged/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempCheckTemp/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempHumidChanged/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/TempCheckHumid/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/BrightnessBrightnessChanged/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckBrightness/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNear/)) {\n\tkey = \"Brightness.Closeness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNotNear/)) {\n\tkey = \"Brightness.Openness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNear/)) {\n\tkey = \"Brightness.Closenes\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNotNear/)) {\n\tkey = \"Brightness.Openess\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MicrophoneDetectSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse if(messageValues.functionId.match(/MicrophoneCheckSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse {\n\tvalue = 1;\n}\n\nvar data = {[key+label]:value};\nlog(JSON.stringify(data));\n\najax( {\n\turl : url,\n\tdata: JSON.stringify(data),\n\ttype : \"POST\",\n\tcontentType : \"application/json\",\n\ttimeout : 5000\n}) .done ( function ( response ) {\n\tlog(\"success\");\n\tlog(JSON.stringify(response));\n}) .fail ((error) =>{\n\tlog(\"error\");\n\tlog(JSON.stringify(error));\n});\n\nreturn {\n        resultType: \"continue\"\n};\n",
+          "result": ""
+        }
+      },
+      {
+        "id": "function_3",
+        "name": "Harvest(bulk)",
+        "connector": {
+          "inputs": [
+            {
+              "label": "input"
+            },
+            {
+              "label": "upload"
+            }
+          ],
+          "outputs": [
+            {
+              "label": ""
+            }
+          ]
+        },
+        "properties": [
+          {
+            "name": "データラベル",
+            "referenceName": "label",
+            "type": "string",
+            "defaultValue": "1"
+          }
+        ],
+        "extension": {
+          "initialize": "return {\n\truntimeValues: {\n\t\tinputIndex: 0,\n\t\tdataArray: {}\n\t}\n};\n",
+          "receive": "runtimeValues.inputIndex = index;\n\nreturn {\n\tresultType : \"continue\",\n\truntimeValues: runtimeValues\n};\n",
+          "execute": "var url = \"http://harvest.soracom.io/\";\n\nvar key;\nvar label = properties.label;\nvar value;\n\n// log(JSON.stringify(messageValues));\n\nif(runtimeValues.inputIndex == 0) {\n\tif(messageValues.functionId.match(/AccelerationShake/)) {\n        key = \"Move.Shake\";\n        value = messageValues.intensity;\n    }\n    else if(messageValues.functionId.match(/AccelerationTap/)) {\n        key = \"Move.Tap\";\n        value = messageValues.intensity;\n\t}\n    else if(messageValues.functionId.match(/AccelerationOrientation/)) {\n        key = \"Move.Orientation\";\n        value = messageValues.orientation;\n    }\n    else if(messageValues.functionId.match(/AccelerationFlip/)) {\n        key = \"Move.Flip\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/ButtonPressed/)) {\n        key = \"Button.Pressed\";\n        value = 1;\n    }\n    else if(messageValues.functionId.match(/ButtonLongPressed/)) {\n        key = \"Button.Hold\";\n        value = 1;\n    }\n    else if(messageValues.functionId.match(/ButtonDoublePressed/)) {\n        key = \"Button.Double\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/GPIODigitalIn/)) {\n        key = \"GPIO.DIN\"+messageValues.pin;\n        if(messageValues.trigger.match(/1/)){\n            key = key + \".High\";\n        }else if(messageValues.trigger.match(/2/)){\n            key = key + \".Low\";\n        }\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/GPIOAnalogIn/)) {\n        key = \"GPIO.AnalogIn\";\n        value = messageValues.value;\n\t}\n    else if(messageValues.functionId.match(/MotionDetected/)) {\n        key = \"Motion.Detected\";\n        value = 1;\n    }\n    else if(messageValues.functionId.match(/MotionUndetected/)) {\n        key = \"Motion.Undetected\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/MotionStateNotified/)) {\n        if(messageValues.stateValue==1){\n            key = \"Motion.Detected\";\n        }else{\n            key = \"Motion.Undetected\";\n        }\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/TempTempChanged/)) {\n        key = \"Temperature\";\n        value = messageValues.temperatureValue;\n\t}\n    else if(messageValues.functionId.match(/TempCheckTemp/)) {\n        key = \"Temperature\";\n        value = messageValues.temperatureValue;\n\t}\n    else if(messageValues.functionId.match(/TempHumidChanged/)) {\n        key = \"Humidity\";\n        value = messageValues.humidityValue;\n\t}\n    else if(messageValues.functionId.match(/TempCheckHumid/)) {\n        key = \"Humidity\";\n        value = messageValues.humidityValue;\n\t}\n    else if(messageValues.functionId.match(/BrightnessBrightnessChanged/)) {\n        key = \"Brightness\";\n        value = messageValues.brightnessRaw;\n\t}\n    else if(messageValues.functionId.match(/BrightnessCheckBrightness/)) {\n        key = \"Brightness\";\n        value = messageValues.brightnessRaw;\n\t}\n    else if(messageValues.functionId.match(/BrightnessGetNear/)) {\n        key = \"Brightness.Closeness\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/BrightnessGetNotNear/)) {\n        key = \"Brightness.Openness\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/BrightnessCheckNear/)) {\n        key = \"Brightness.Closenes\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/BrightnessCheckNotNear/)) {\n        key = \"Brightness.Openess\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/MicrophoneDetectSound/)) {\n        key = \"Mic\";\n        value = messageValues.averagePower;\n\t}\n    else if(messageValues.functionId.match(/MicrophoneCheckSound/)) {\n        key = \"Mic\";\n        value = messageValues.averagePower;\n    }\n\t\n\truntimeValues.dataArray[key+label] = value;\n\n    return {\n        resultType: \"continue\",\n        runtimeValues: runtimeValues\n    };\n}\nelse {\n    ajax( {\n        url : url,\n        data: JSON.stringify(runtimeValues.dataArray),\n        type : \"POST\",\n        contentType : \"application/json\",\n        timeout : 5000\n    }) .done ( function ( response ) {\n        log(\"success\");\n        log(JSON.stringify(response));\n    }) .fail ((error) =>{\n        log(\"error\");\n        log(JSON.stringify(error));\n    });\n\n\tlog(JSON.stringify(runtimeValues.dataArray));\n    runtimeValues.dataArray = {};\n\n    return {\n        resultType: \"continue\",\n        runtimeValues: runtimeValues\n    };\n}\n\n",
+          "result": ""
+        }
+      },
+      {
+        "id": "function_4",
+        "name": "Beam(bulk)",
+        "connector": {
+          "inputs": [
+            {
+              "label": "input"
+            },
+            {
+              "label": "upload"
+            }
+          ],
+          "outputs": [
+            {
+              "label": ""
+            }
+          ]
+        },
+        "properties": [
+          {
+            "name": "データラベル",
+            "referenceName": "label",
+            "type": "string",
+            "defaultValue": "1"
+          },
+          {
+            "name": "パス",
+            "referenceName": "path",
+            "type": "string",
+            "defaultValue": "/"
+          }
+        ],
+        "extension": {
+          "initialize": "return {\n\truntimeValues: {\n\t\tinputIndex: 0,\n\t\tdataArray: {}\n\t}\n};\n",
+          "receive": "runtimeValues.inputIndex = index;\n\nreturn {\n\tresultType : \"continue\",\n\truntimeValues: runtimeValues\n};\n",
+          "execute": "var url = \"http://beam.soracom.io:8888\";\n\nvar key;\nvar value;\nvar label = properties.label;\nvar path = properties.path;\nurl = url + path;\n\nlog(JSON.stringify(messageValues));\n\nif(runtimeValues.inputIndex == 0) {\n\tif(messageValues.functionId.match(/AccelerationShake/)) {\n\t\tkey = \"Move.Shake\";\n\t\tvalue = messageValues.intensity;\n\t}\n\telse if(messageValues.functionId.match(/AccelerationTap/)) {\n\t\tkey = \"Move.Tap\";\n\t\tvalue = messageValues.intensity;\n\t}\n\telse if(messageValues.functionId.match(/AccelerationOrientation/)) {\n\t\tkey = \"Move.Orientation\";\n\t\tvalue = messageValues.orientation;\n\t}\n\telse if(messageValues.functionId.match(/AccelerationFlip/)) {\n\t\tkey = \"Move.Flip\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/ButtonPressed/)) {\n\t\tkey = \"Button.Pressed\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/ButtonLongPressed/)) {\n\t\tkey = \"Button.Hold\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/ButtonDoublePressed/)) {\n\t\tkey = \"Button.Double\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/GPIODigitalIn/)) {\n\t\tkey = \"GPIO.DIN\"+messageValues.pin;\n\t\tif(messageValues.trigger.match(/1/)){\n\t\t\tkey = key + \".High\";\n\t\t}else if(messageValues.trigger.match(/2/)){\n\t\t\tkey = key + \".Low\";\n\t\t}\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/GPIOAnalogIn/)) {\n\t\tkey = \"GPIO.AnalogIn\";\n\t\tvalue = messageValues.value;\n\t}\n\telse if(messageValues.functionId.match(/MotionDetected/)) {\n\t\tkey = \"Motion.Detected\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/MotionUndetected/)) {\n\t\tkey = \"Motion.Undetected\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/MotionStateNotified/)) {\n\t\tif(messageValues.stateValue==1){\n\t\t\tkey = \"Motion.Detected\";\n\t\t}else{\n\t\t\tkey = \"Motion.Undetected\";\n\t\t}\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/TempTempChanged/)) {\n\t\tkey = \"Temperature\";\n\t\tvalue = messageValues.temperatureValue;\n\t}\n\telse if(messageValues.functionId.match(/TempCheckTemp/)) {\n\t\tkey = \"Temperature\";\n\t\tvalue = messageValues.temperatureValue;\n\t}\n\telse if(messageValues.functionId.match(/TempHumidChanged/)) {\n\t\tkey = \"Humidity\";\n\t\tvalue = messageValues.humidityValue;\n\t}\n\telse if(messageValues.functionId.match(/TempCheckHumid/)) {\n\t\tkey = \"Humidity\";\n\t\tvalue = messageValues.humidityValue;\n\t}\n\telse if(messageValues.functionId.match(/BrightnessBrightnessChanged/)) {\n\t\tkey = \"Brightness\";\n\t\tvalue = messageValues.brightnessRaw;\n\t}\n\telse if(messageValues.functionId.match(/BrightnessCheckBrightness/)) {\n\t\tkey = \"Brightness\";\n\t\tvalue = messageValues.brightnessRaw;\n\t}\n\telse if(messageValues.functionId.match(/BrightnessGetNear/)) {\n\t\tkey = \"Brightness.Closeness\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/BrightnessGetNotNear/)) {\n\t\tkey = \"Brightness.Openness\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/BrightnessCheckNear/)) {\n\t\tkey = \"Brightness.Closenes\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/BrightnessCheckNotNear/)) {\n\t\tkey = \"Brightness.Openess\";\n\t\tvalue = 1;\n\t}\n\telse if(messageValues.functionId.match(/MicrophoneDetectSound/)) {\n\t\tkey = \"Mic\";\n\t\tvalue = messageValues.averagePower;\n\t}\n\telse if(messageValues.functionId.match(/MicrophoneCheckSound/)) {\n\t\tkey = \"Mic\";\n\t\tvalue = messageValues.averagePower;\n\t}\n\t\n\truntimeValues.dataArray[key+label] = value;\n\t\n    return {\n        resultType: \"continue\",\n        runtimeValues: runtimeValues\n    };\n}\nelse{\n\tajax( {\n\t\turl : url,\n\t\tdata: JSON.stringify(runtimeValues.dataArray),\n\t\ttype : \"POST\",\n\t\tcontentType : \"application/json\",\n\t\ttimeout : 5000\n\t}) .done ( function ( response ) {\n\t\tlog(\"success\");\n\t\tlog(JSON.stringify(response));\n\t}) .fail ((error) =>{\n\t\tlog(\"error\");\n\t\tlog(JSON.stringify(error));\n\t});\n\t\n\tlog(JSON.stringify(runtimeValues.dataArray));\n    runtimeValues.dataArray = {};\n\n\treturn {\n\t\tresultType : \"continue\",\n\t\truntimeValues: runtimeValues\n\t};\n}\n\n",
+          "result": ""
+        }
+      },
+      {
+        "id": "function_5",
+        "name": "Funnel(bulk)",
+        "connector": {
+          "inputs": [
+            {
+              "label": "input"
+            },
+            {
+              "label": "upload"
+            }
+          ],
+          "outputs": [
+            {
+              "label": ""
+            }
+          ]
+        },
+        "properties": [
+          {
+            "name": "データラベル",
+            "referenceName": "label",
+            "type": "string",
+            "defaultValue": "1"
+          }
+        ],
+        "extension": {
+          "initialize": "return {\n\truntimeValues: {\n\t\tinputIndex: 0,\n\t\tdataArray: {}\n\t}\n};\n",
+          "receive": "runtimeValues.inputIndex = index;\n\nreturn {\n\tresultType : \"continue\",\n\truntimeValues: runtimeValues\n};\n",
+          "execute": "var url = \"http://funnel.soracom.io/\";\n\nvar key;\nvar label = properties.label;\nvar value;\n\n// log(JSON.stringify(messageValues));\n\nif(runtimeValues.inputIndex == 0) {\n    if(messageValues.functionId.match(/AccelerationShake/)) {\n        key = \"Move.Shake\";\n        value = messageValues.intensity;\n    }\n    else if(messageValues.functionId.match(/AccelerationTap/)) {\n        key = \"Move.Tap\";\n        value = messageValues.intensity;\n\t}\n    else if(messageValues.functionId.match(/AccelerationOrientation/)) {\n        key = \"Move.Orientation\";\n        value = messageValues.orientation;\n    }\n    else if(messageValues.functionId.match(/AccelerationFlip/)) {\n        key = \"Move.Flip\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/ButtonPressed/)) {\n        key = \"Button.Pressed\";\n        value = 1;\n    }\n    else if(messageValues.functionId.match(/ButtonLongPressed/)) {\n        key = \"Button.Hold\";\n        value = 1;\n    }\n    else if(messageValues.functionId.match(/ButtonDoublePressed/)) {\n        key = \"Button.Double\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/GPIODigitalIn/)) {\n        key = \"GPIO.DIN\"+messageValues.pin;\n        if(messageValues.trigger.match(/1/)){\n            key = key + \".High\";\n        }else if(messageValues.trigger.match(/2/)){\n            key = key + \".Low\";\n        }\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/GPIOAnalogIn/)) {\n        key = \"GPIO.AnalogIn\";\n        value = messageValues.value;\n\t}\n    else if(messageValues.functionId.match(/MotionDetected/)) {\n        key = \"Motion.Detected\";\n        value = 1;\n    }\n    else if(messageValues.functionId.match(/MotionUndetected/)) {\n        key = \"Motion.Undetected\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/MotionStateNotified/)) {\n        if(messageValues.stateValue==1){\n            key = \"Motion.Detected\";\n        }else{\n            key = \"Motion.Undetected\";\n        }\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/TempTempChanged/)) {\n        key = \"Temperature\";\n        value = messageValues.temperatureValue;\n\t}\n    else if(messageValues.functionId.match(/TempCheckTemp/)) {\n        key = \"Temperature\";\n        value = messageValues.temperatureValue;\n\t}\n    else if(messageValues.functionId.match(/TempHumidChanged/)) {\n        key = \"Humidity\";\n        value = messageValues.humidityValue;\n\t}\n    else if(messageValues.functionId.match(/TempCheckHumid/)) {\n        key = \"Humidity\";\n        value = messageValues.humidityValue;\n\t}\n    else if(messageValues.functionId.match(/BrightnessBrightnessChanged/)) {\n        key = \"Brightness\";\n        value = messageValues.brightnessRaw;\n\t}\n    else if(messageValues.functionId.match(/BrightnessCheckBrightness/)) {\n        key = \"Brightness\";\n        value = messageValues.brightnessRaw;\n\t}\n    else if(messageValues.functionId.match(/BrightnessGetNear/)) {\n        key = \"Brightness.Closeness\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/BrightnessGetNotNear/)) {\n        key = \"Brightness.Openness\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/BrightnessCheckNear/)) {\n        key = \"Brightness.Closenes\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/BrightnessCheckNotNear/)) {\n        key = \"Brightness.Openess\";\n        value = 1;\n\t}\n    else if(messageValues.functionId.match(/MicrophoneDetectSound/)) {\n        key = \"Mic\";\n        value = messageValues.averagePower;\n\t}\n    else if(messageValues.functionId.match(/MicrophoneCheckSound/)) {\n        key = \"Mic\";\n        value = messageValues.averagePower;\n    }\n\t\n\truntimeValues.dataArray[key+label] = value;\n\n    return {\n        resultType: \"continue\",\n        runtimeValues: runtimeValues\n    };\n}\nelse {\n    ajax( {\n        url : url,\n        data: JSON.stringify(runtimeValues.dataArray),\n        type : \"POST\",\n        contentType : \"application/json\",\n        timeout : 5000\n    }) .done ( function ( response ) {\n        log(\"success\");\n        log(JSON.stringify(response));\n    }) .fail ((error) =>{\n        log(\"error\");\n        log(JSON.stringify(error));\n    });\n\n\tlog(JSON.stringify(runtimeValues.dataArray));\n    runtimeValues.dataArray = {};\n\n    return {\n        resultType: \"continue\",\n        runtimeValues: runtimeValues\n    };\n}\n\n",
+          "result": ""
+        }
+      },
+      {
+        "id": "function_6",
+        "name": "Inventory",
+        "connector": {
+          "inputs": [
+            {
+              "label": "input"
+            }
+          ],
+          "outputs": [
+            {
+              "label": ""
+            }
+          ]
+        },
+        "properties": [
+          {
+            "name": "データラベル",
+            "referenceName": "label",
+            "type": "string",
+            "defaultValue": "1"
+          },
+          {
+            "name": "デバイスID",
+            "referenceName": "deviceId",
+            "type": "string",
+            "defaultValue": "d-xxxxxxxx"
+          },
+          {
+            "name": "デバイスシークレット",
+            "referenceName": "secretKey",
+            "type": "string",
+            "defaultValue": "deadbeefcafebabe=="
+          }
+        ],
+        "extension": {
+          "initialize": "",
+          "receive": "",
+          "execute": "var key;\nvar value;\nvar label = properties.label;\nvar deviceId = properties.deviceId;\nvar secretKey = properties.secretKey;\nvar url = \"https://api.soracom.io/v1/devices/\"+deviceId+\"/publish\"\nlog(JSON.stringify(messageValues));\n\nif(messageValues.functionId.match(/AccelerationShake/)) {\n\tkey = \"Move.Shake\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationTap/)) {\n\tkey = \"Move.Tap\";\n\tvalue = messageValues.intensity;\n}\nelse if(messageValues.functionId.match(/AccelerationOrientation/)) {\n\tkey = \"Move.Orientation\";\n\tvalue = messageValues.orientation;\n}\nelse if(messageValues.functionId.match(/AccelerationFlip/)) {\n\tkey = \"Move.Flip\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonPressed/)) {\n\tkey = \"Button.Pressed\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonLongPressed/)) {\n\tkey = \"Button.Hold\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/ButtonDoublePressed/)) {\n\tkey = \"Button.Double\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIODigitalIn/)) {\n\tkey = \"GPIO.DIN\"+messageValues.pin;\n\tif(messageValues.trigger.match(/1/)){\n\t\tkey = key + \".High\";\n\t}else if(messageValues.trigger.match(/2/)){\n\t\tkey = key + \".Low\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/GPIOAnalogIn/)) {\n\tkey = \"GPIO.AnalogIn\";\n\tvalue = messageValues.value;\n}\nelse if(messageValues.functionId.match(/MotionDetected/)) {\n\tkey = \"Motion.Detected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionUndetected/)) {\n\tkey = \"Motion.Undetected\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MotionStateNotified/)) {\n\tif(messageValues.stateValue==1){\n\t\tkey = \"Motion.Detected\";\n\t}else{\n\t\tkey = \"Motion.Undetected\";\n\t}\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/TempTempChanged/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempCheckTemp/)) {\n\tkey = \"Temperature\";\n\tvalue = messageValues.temperatureValue;\n}\nelse if(messageValues.functionId.match(/TempHumidChanged/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/TempCheckHumid/)) {\n\tkey = \"Humidity\";\n\tvalue = messageValues.humidityValue;\n}\nelse if(messageValues.functionId.match(/BrightnessBrightnessChanged/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckBrightness/)) {\n\tkey = \"Brightness\";\n\tvalue = messageValues.brightnessRaw;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNear/)) {\n\tkey = \"Brightness.Closeness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessGetNotNear/)) {\n\tkey = \"Brightness.Openness\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNear/)) {\n\tkey = \"Brightness.Closenes\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/BrightnessCheckNotNear/)) {\n\tkey = \"Brightness.Openess\";\n\tvalue = 1;\n}\nelse if(messageValues.functionId.match(/MicrophoneDetectSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse if(messageValues.functionId.match(/MicrophoneCheckSound/)) {\n\tkey = \"Mic\";\n\tvalue = messageValues.averagePower;\n}\nelse {\n\tvalue = 1;\n}\n\nvar data = {[key+label]:value};\nlog(JSON.stringify(data));\najax( {\n\turl : url,\n\tdata: JSON.stringify(data),\n\ttype : \"POST\",\n\tcontentType : \"application/json\",\n\ttimeout : 5000,\n\theaders: {\n\t\t\"x-device-secret\": secretKey\n\t}\n}) .done ( function ( response ) {\n\tlog(\"success\");\n\tlog(JSON.stringify(response));\n}) .fail ((error) =>{\n\tlog(\"error\");\n\tlog(JSON.stringify(error));\n});\n\nreturn {\n\tresultType : \"pause\"\n};\n",
+          "result": ""
+        }
+      }
+    ]
+  }
+}

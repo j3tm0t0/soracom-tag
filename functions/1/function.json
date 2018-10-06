@@ -1,0 +1,36 @@
+{
+  "id": "function_1",
+  "name": "Beam",
+  "connector": {
+    "inputs": [
+      {
+        "label": "input"
+      }
+    ],
+    "outputs": [
+      {
+        "label": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "name": "データラベル",
+      "referenceName": "label",
+      "type": "string",
+      "defaultValue": "1"
+    },
+    {
+      "name": "パス",
+      "referenceName": "path",
+      "type": "string",
+      "defaultValue": "/"
+    }
+  ],
+  "extension": {
+    "initialize": "",
+    "receive": "",
+    "execute": "",
+    "result": ""
+  }
+}
